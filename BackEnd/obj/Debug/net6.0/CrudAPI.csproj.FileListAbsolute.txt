@@ -162,3 +162,4 @@ C:\Users\lucas\OneDrive\Área de Trabalho\Crud-Angular-Web-API\crud-angular-dotn
 C:\Users\lucas\OneDrive\Área de Trabalho\Crud-Angular-Web-API\crud-angular-dotnet\BackEnd\obj\Debug\net6.0\CrudAPI.pdb
 C:\Users\lucas\OneDrive\Área de Trabalho\Crud-Angular-Web-API\crud-angular-dotnet\BackEnd\obj\Debug\net6.0\CrudAPI.genruntimeconfig.cache
 C:\Users\lucas\OneDrive\Área de Trabalho\Crud-Angular-Web-API\crud-angular-dotnet\BackEnd\obj\Debug\net6.0\ref\CrudAPI.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Crud-Angular-Web-API\crud-angular-dotnet\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

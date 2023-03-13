@@ -8,19 +8,36 @@ namespace BackEnd.Repositories
 {
     public class UserRepository
     {
-        public static User Get(string username, string password)
+        private static List<User> users = new List<User>
         {
-            var users = new List<User>();
-
-            users.Add(new User
+            new User
             {
                 Id = 1,
                 Username = "admin",
                 Password = "admin123",
                 Role = "manager"
-            });
+            }
+        };
 
-            return users.Where(x => x.Username.ToLower() == username && x.Password == x.Password).First();
+        public static User Get(string username, string password)
+        {
+            return users.Where(x => x.Username.ToLower() == username.ToLower() && x.Password == password).FirstOrDefault();
         }
+
+        public static User CreateUser(string username, string password, string role)
+        {
+            var newUser = new User
+            {
+                Id = users.Count + 1,
+                Username = username,
+                Password = password,
+                Role = role
+            };
+
+            users.Add(newUser);
+
+            return newUser;
+        }
+
     }
 }
