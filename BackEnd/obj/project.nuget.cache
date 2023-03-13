@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7o6NNoNFi/Xe9OXRqxPzrOOcx3hbNK2UvOds0ktMcSf4xxhHHxyYKcnj5SkdODbLew11TIcBeTWuNU5ZIkK+MQ==",
+  "dgSpecHash": "VyEtWNesyc87tK1ZWXV06W3oaDbCgp/1s3l/buHGYsscV1zTmkP21VlaqO886iEZsdJosE1dkbuDD1b8s25a7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\CrudAPI\\CrudAPI.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\crud-angular-dotnet\\BackEnd\\CrudAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

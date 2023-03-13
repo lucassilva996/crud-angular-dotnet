@@ -3729,11 +3729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\CrudAPI\\CrudAPI.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\crud-angular-dotnet\\BackEnd\\CrudAPI.csproj",
       "projectName": "CrudAPI",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\CrudAPI\\CrudAPI.csproj",
+      "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\crud-angular-dotnet\\BackEnd\\CrudAPI.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\CrudAPI\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Crud-Angular-Web-API\\crud-angular-dotnet\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
